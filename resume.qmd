@@ -1,89 +1,67 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Matthew Foushee Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Matthew Foushee
+Dynamic and results-driven professional with a strong background in programming and team collaboration at Landmark Properties Inc. Proven problem-solver with expertise in Java and Python, enhancing software efficiency through automation. Recognized for fostering positive relationships and training new team members, contributing to a cohesive and productive work environment.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+Gilbert, AZ 85298  
+<a href="tel:4805990126">480-599-0126</a>  
+<a href="mailto:fousheematthew@gmail.com">fousheematthew@gmail.com</a>  
+<a href="https://github.com/MagicWarrior494">https://github.com/MagicWarrior494</a>
 </div>
 
+## Accomplishments
 
-## Currently
+- Achieved a position in the world tournament for the FTC competition in high school due to programming skills.
 
-Standing on the shoulders of giants
+## Skills
 
-### Specialized in
+- Conflict resolution  
+- Positive attitude  
+- Problem-solving  
+- Proficient in Java, C++, C#, Python, SQL  
+- Computer skills  
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Work History
 
+### Team Member  
+**Landmark Properties Inc., Mesa, AZ**  
+_February 2025 – June 2025_
 
-### Research interests
+- Contributed to team success by completing jobs quickly and accurately.
+- Learned all required tasks quickly to maximize performance.
+- Developed strong cooperative relationships with coworkers and managers.
+- Trained new team members by relaying information on company procedures and safety requirements.
+- Kept work areas clean, organized, and safe to promote efficiency and team safety.
+- Performed calculations and measurements, used mechanical aptitude, and demonstrated programming expertise.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Maintenance Crew Member  
+**Craigland, Rexburg, ID**  
+_January 2023 – September 2023_
 
+- Loaded, unloaded, and moved materials.
+- Removed outdoor debris and yard clippings.
+- Used problem-solving skills with minimal supervision.
+- Handled snow removal and salt application for safety.
+- Followed routine maintenance checklists.
+- Maintained lights, fans, plumbing, electrical, and pneumatic systems.
+- Renovated entire complex over the summer.
+
+### Lead Programmer  
+**Robotics Team, Gilbert, AZ**  
+_August 2019 – May 2020_
+
+- Designed and developed robust solutions for functionality, scalability, and performance.
+- Integrated data visualization tools for complex analyses.
+- Developed CI tools to streamline deployment.
+- Created automated scripts and tools to improve efficiency.
+- Designed and programmed robotic solutions.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+**Bachelor of Science in Computer Science**  
+_Brigham Young University, Idaho – Expected July 2028_  
+Rexburg, ID
